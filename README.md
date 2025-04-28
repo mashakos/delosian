@@ -6,7 +6,6 @@ Inspired by the mystical tales of Leto from Greek Mythology and the boundless po
 
 Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/).
 
-
 ## Install & run
 
 Make sure you have nodejs `19.9.0` or higher and npm `9.6.3` or higher installed. Install dependencies with:
